@@ -1,1 +1,6 @@
-{"name":"vercel-xhttp-relay-core","version":"1.0.0","description":"Obfuscated-Edge-XHTTP-Relay","private":true,"license":"MIT","scripts":{"build":"echo 'Building...'"}}
+{ 
+  "name": "vercel-xhttp-relay", 
+  "version": "1.0.0", 
+  "private": true, 
+  "license": "MIT" 
+}
